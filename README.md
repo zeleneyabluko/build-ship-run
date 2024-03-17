@@ -1,4 +1,4 @@
-# devopscourse01
+# devopscourse01 - Build, Ship, Run
 This is a learning project which includes:
 - creating a web server and index.html file;
 - creating Docker image for the project and exporting it to Docker hub
